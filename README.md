@@ -13,7 +13,11 @@ Meu nome é Andrey Lucas Machado Panegalli, resido atualmente em chapecó. Sou d
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
+<div style="margin-top: 10px">
+
 ![card](https://github-readme-stats.vercel.app/api?username=Andreypanegallito&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide_border=tru&hide=issues)
+
+</div>
 
 <!--
 **Andreypanegallito/Andreypanegallito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +32,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
