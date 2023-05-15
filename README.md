@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-Meu nome é Andrey Lucas Machado Panegalli, resido atualmente em chapecó. Sou desenvolvedor front-end.
+- 💻 I’m Andrey Panegalli.
+- 🏠 I’m currently live in Chapecó, Brazil.
+- 👨‍💻 I’m front-end developer.
+- 🔭 I’m currently working on [Hospital Unimed Chapecó](https://www.unimed.coop.br/site/web/chapeco/hospital-unimed-chapeco).
+- 🌱 I’m currently learning C#, React and SASS.
 
-### Técnologias que utilizo
+### Technologies
 
 <div style="display: inline_block">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
