@@ -21,8 +21,9 @@
 
 <div style="margin-top: 10px">
 
-![card](https://github-readme-stats.vercel.app/api?username=Andreypanegallito&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide_border=tru&hide=issues)
-![card](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreypanegallito&layout=compact&langs_count=16&theme=discord_old_blurple)
+<img heigt="250em" src="https://github-readme-stats.vercel.app/api?username=Andreypanegallito&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide_border=tru&hide=issues" />
+<img heigt="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreypanegallito&layout=compact&langs_count=16&theme=discord_old_blurple" />
+
 
 </div>
 
