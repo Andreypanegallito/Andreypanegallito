@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
 </div>
 
 ### My stats
@@ -23,6 +22,7 @@
 <div style="margin-top: 10px">
 
 ![card](https://github-readme-stats.vercel.app/api?username=Andreypanegallito&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide_border=tru&hide=issues)
+![card](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreypanegallito&layout=compact&langs_count=16&theme=discord_old_blurple)
 
 </div>
 
