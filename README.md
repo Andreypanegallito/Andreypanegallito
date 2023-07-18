@@ -20,11 +20,7 @@
 ### My stats
 
 <div style="margin-top: 10px">
-
-<img heigt="250em" src="https://github-readme-stats.vercel.app/api?username=Andreypanegallito&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true&hide_border=tru&hide=issues" />
 <img heigt="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreypanegallito&layout=compact&langs_count=16&theme=discord_old_blurple" />
-
-
 </div>
 
 ### Want to know more about me?
@@ -32,18 +28,3 @@
 Access my personal portfolio and view more detailed information.
 
 [PORFOLIO](https://panegallito.vercel.app)
-
-<!--
-**Andreypanegallito/Andreypanegallito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
