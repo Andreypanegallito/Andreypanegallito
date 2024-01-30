@@ -3,7 +3,7 @@
 - 💻 I’m Andrey Panegalli.
 - 🏠 I’m currently live in Chapecó, Brazil.
 - 👨‍💻 I’m front-end developer.
-- 🔭 I’m currently working on [Hospital Unimed Chapecó](https://www.unimed.coop.br/site/web/chapeco/hospital-unimed-chapeco).
+- 🔭 I'm currently looking for work.
 - 🌱 I’m currently learning C#, React and SASS.
 
 ### Technologies
