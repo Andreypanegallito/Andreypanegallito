@@ -2,9 +2,9 @@
 
 - 💻 I’m Andrey Panegalli.
 - 🏠 I’m currently live in Chapecó, Brazil.
-- 👨‍💻 I’m front-end developer.
+- 👨‍💻 I’m full-stack developer.
 - 🔭 I'm currently looking for work.
-- 🌱 I’m currently learning C#, React and SASS.
+- 🌱 I’m currently learning C#, Angular and C++.
 
 ### Technologies
 
